@@ -16,6 +16,7 @@ Urbanização (%)
 Temperatura (°C)
 Umidade (%)
 Velocidade do vento
+
 3. Tratamento e Preparação dos Dados
 
 Os dados foram organizados em formato estruturado, garantindo consistência entre as variáveis de entrada. Foi realizada a separação entre variáveis independentes (features) e variável alvo (target), além da divisão entre dados de treino e teste.
